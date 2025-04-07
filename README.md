@@ -16,7 +16,7 @@ I'm an Academic Assistant (Developper) at DST – Development Centre for Ship Te
 * Robotics 🤖
 * Automation ⚙️
 * Mechatronics 🎓
-* Translation (English ↔ Arabic ↔ German) 🌐
+* Translation (English ↔ Arabic) 🌐
 
 ## Skills
 
@@ -24,12 +24,12 @@ I'm an Academic Assistant (Developper) at DST – Development Centre for Ship Te
 * **Robotics:** ROS 2
 * **Engineering:** Mechanical Engineering, Mechatronics
 * **Languages:** Arabic (Native), English (Fluent), German (Proficient)
-* **Translation:** Mostly English ↔ Arabic
+* **Translation:** Mostly English -> Arabic
 
 ## How to Reach Me
 
 * Email: syrius@duck.com
-
+* Linked-In: @habib-zreik
 ## Education
 
 * **M.Sc. Mechatronics Student** - University of Duisburg-Essen, Duisburg, Germany (Still enrolled)
@@ -39,8 +39,4 @@ I'm an Academic Assistant (Developper) at DST – Development Centre for Ship Te
 
 ## Translation Services
 
-I also offer translation services between English, Arabic, and German. If you need help translating technical documents, software interfaces, or other materials, feel free to contact me.
-
----
-
-Feel free to explore my repositories and connect with me!
+I also offer translation services in the English-Arabic pair. If you need help translating technical documents, software interfaces, or other materials, feel free to contact me.

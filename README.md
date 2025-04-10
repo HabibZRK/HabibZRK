@@ -28,7 +28,7 @@ I'm an Academic Assistant (Developper) at DST – Development Centre for Ship Te
 
 ## How to Reach Me
 
-* Email: syrius@duck.com
+* Email: h.zreik@ieee.org
 * Linked-In: @habib-zreik
 ## Education
 

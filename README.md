@@ -54,7 +54,7 @@ For translation inqueries (En⇔Ar)
 ---
 * Linked-In: [@habib-zreik](https://www.linkedin.com/in/habib-zreik/)
 
-
+## Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HabibZRK&theme=transparent&count_private=true&show_icons=false&hide_title=false&include_all_commits=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibZRK&layout=compact&hide=C,javascript,LabVIEW,ProLog,objective-c,M,OpenEdge%20ABL,Batchfile,Perl,Roff,Jupyter%20Notebook,TCL,TLA,c%23,Makefile,Tex,GLSL,qmake,M4,scilab&langs_count=8&hide_title=false&theme=transparent&show_icons=true&include_all_commits=false,is_fork=false)
 

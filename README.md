@@ -48,9 +48,9 @@ I'm an Academic Assistant (Developper) at DST – Development Centre for Ship Te
   * 
 ## How to Reach Me
 For engineering & research-related inqueries:
-* Email: h.zreik@ieee.org
+* Email: [h.zreik@ieee.org](mailto:h.zreik@ieee.org)
 For translation inqueries (En⇔Ar)
-* Email: h.zreik@gmail.com
+* Email: [h.zreik@gmail.com](mailto:h.zreik@gmail.com)
 ---
 * Linked-In: [@habib-zreik](https://www.linkedin.com/in/habib-zreik/)
 

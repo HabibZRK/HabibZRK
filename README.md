@@ -54,3 +54,4 @@ For translation inqueries (En⇔Ar)
 ---
 * Linked-In: [@habib-zreik](https://www.linkedin.com/in/habib-zreik/)
 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=HabibZRK.Habib.ZRK&left_color=green&right_color=red)

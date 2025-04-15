@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm an Academic Assistant (Developper) at DST – Development Centre for Ship Technology and Transport Systems e.V. 🚢, Duisburg, NRW. currently pursuing my M.Sc. in Mechatronics at the University of Duisburg-Essen. I'm passionate about robotics and automation, and constantly learning and exploring new technologies in this field.
+I'm a graduate academic assistant (developper) at DST – Development Centre for Ship Technology and Transport Systems e.V. 🚢, Duisburg, NRW. currently pursuing my M.Sc. in mechatronics at the University of Duisburg-Essen.
 
 ## What I'm Up To
 

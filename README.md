@@ -6,7 +6,7 @@
 
 I'm an Academic Assistant (Developper) at DST – Development Centre for Ship Technology and Transport Systems e.V. 🚢, Duisburg, NRW. currently pursuing my M.Sc. in Mechatronics at the University of Duisburg-Essen. I'm passionate about robotics and automation, and constantly learning and exploring new technologies in this field.
 
-## What I'm Currently Working On
+## What I'm Up To
 
 * [Cobotank](cobotank.de) 🤖, a *collaborative* robotic system that automates and simplifies inland tanker loading.
 * Finishing my studies in [Mechatronics](https://www.uni-due.de/mechatronik/) at [Uni Duisburg-Essen](https://www.uni-due.de/).

@@ -8,15 +8,18 @@ I'm an Academic Assistant (Developper) at DST – Development Centre for Ship Te
 
 ## What I'm Currently Working On
 
-* Currently working on: Cobotank 🤖, a cooperative robot for liquid transfer on river tankers.
-* My studies in Mechatronics at Duisburg-Essen are focused on control systems and robotics.
+* Cobotank 🤖, a cooperative robot for liquid transfer on river tankers.
+* Finishing my studies in [Mechatronics](https://www.uni-due.de/mechatronik/) at [Uni Duisburg-Essen](https://www.uni-due.de/).
+* [*Catchin'em all!*](https://www.youtube.com/watch?v=JuYeHPFR3f0) 
 
-## Interests
+## Fields of interest
 
-* Robotics 🤖
-* Automation ⚙️
-* Mechatronics 🎓
-* Translation (English ↔ Arabic) 🌐
+- **Mechanical Engineering** 🔧  
+- **Robotics** 🤖  
+- **Automation** ⚙️  
+- **Mechatronics** 🦾 
+- **Control Theory** 🎛️📈  
+- **Translation** 🌐📝  
 
 ## Skills
 
@@ -27,8 +30,11 @@ I'm an Academic Assistant (Developper) at DST – Development Centre for Ship Te
 * **Translation:** Mostly English -> Arabic
 
 ## How to Reach Me
-
+For engineering & research-related inqueries:
 * Email: h.zreik@ieee.org
+For translation inqueries (En⇔Ar)
+* Email: h.zreik@gmail.com
+---
 * Linked-In: @habib-zreik
 ## Education
 

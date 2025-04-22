@@ -49,6 +49,7 @@ I'm a graduate academic assistant (developper) at DST – Development Centre for
 ## How to Reach Me
 For engineering & research-related inqueries:
 * Email: [h.zreik@ieee.org](mailto:h.zreik@ieee.org)
+
 For translation inqueries (En⇔Ar)
 * Email: [h.zreik@gmail.com](mailto:h.zreik@gmail.com)
 ---

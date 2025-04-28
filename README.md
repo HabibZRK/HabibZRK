@@ -33,7 +33,7 @@ I'm a Graduate Academic Assistant (developper) at [DST – Development Centre fo
 ## Education
 
 * **M.Sc. Mechatronics Student** - University of Duisburg-Essen, Duisburg, Germany (current)
-* * **Associate Degree in Computer Science** - University of the People, Pasadena, USA (2023)
+* **Associate Degree in Computer Science** - University of the People, Pasadena, USA (2023)
 * **B.Sc. Mechanical Engineering** - Damascus University, Damascus, Syria (2020)
 
 ## Publications
@@ -53,9 +53,9 @@ I'm a Graduate Academic Assistant (developper) at [DST – Development Centre fo
 - In memory of Dr. Loshkajian, [The Friendly Neighborhood Docrtor](https://www.storyhouse.org/habibz.html)
 #### بالعربية
 - الكثير من المقالات والمراجعات على صفحة [نادي قراء الهمك](https://www.facebook.com/hamak.reading.club) 
-## How to Reach Me
+## Cotnact
 * Linked-In: [@habib-zreik](https://www.linkedin.com/in/habib-zreik/)
----
+
 For engineering & research-related inqueries:
 * Email: [h.zreik@ieee.org](mailto:h.zreik@ieee.org)
 

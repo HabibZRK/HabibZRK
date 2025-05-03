@@ -49,9 +49,7 @@
 <h3>🔍 Fields of interest</h3>
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Robotics-🤖-red?style=for-the-badge" alt="Robotics"/></a>
- 
   <a href="#"><img src="https://img.shields.io/badge/Literature-📝-purple?style=for-the-badge" alt="Translation"/></a>
-  <br>
   <a href="#"><img src="https://img.shields.io/badge/Plastic_Arts-🎨-blue?style=for-the-badge" alt="Plastic Arts"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Astronomy-🔭-darkblue?style=for-the-badge" alt="Astronomy"/></a>
 </div>

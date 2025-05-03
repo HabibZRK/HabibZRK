@@ -131,10 +131,10 @@
 <h3>📫 Connect With Me</h3>
 <div align="center">
   <a href="https://linkedin.com/in/habib-zreik"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://bsky.app/profile/your-handle"><img src="https://img.shields.io/badge/Bluesky-%231DA1F2.svg?logo=bluesky&logoColor=white&style=for-the-badge" alt="Bluesky"/></a>
-  <a href="https://www.flickr.com/photos/your-handle"><img src="https://img.shields.io/badge/Flickr-%23FF0084.svg?logo=flickr&logoColor=white&style=for-the-badge" alt="Flickr"/></a>
+  <a href="https://bsky.app/profile/hzreik.bsky.social"><img src="https://img.shields.io/badge/Bluesky-%231DA1F2.svg?logo=bluesky&logoColor=white&style=for-the-badge" alt="Bluesky"/></a>
+  <a href="https://www.flickr.com/photos/hzreik"><img src="https://img.shields.io/badge/Flickr-%23FF0084.svg?logo=flickr&logoColor=white&style=for-the-badge" alt="Flickr"/></a>
   <a href="https://www.goodreads.com/user/show/22422906"><img src="https://img.shields.io/badge/Goodreads-%23372213.svg?logo=goodreads&logoColor=white&style=for-the-badge" alt="Goodreads"/></a>
-  <a href="https://linktr.ee/your-handle"><img src="https://img.shields.io/badge/Linktree-%2339E09B.svg?logo=linktree&logoColor=white&style=for-the-badge" alt="Linktree"/></a>
+  <a href="https://linktr.ee/zreik"><img src="https://img.shields.io/badge/Linktree-%2339E09B.svg?logo=linktree&logoColor=white&style=for-the-badge" alt="Linktree"/></a>
 </div>
 
 <h4>Professional Contact</h4>

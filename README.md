@@ -112,7 +112,7 @@
 
 <h5>Solo</h5>
 <ul>
-  <li><a href="https://hayat-publishing.com/ar/%D9%83%D9%8A%D9%81-%D8%AA%D9%83%D8%AA%D8%A8-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%AA%D8%B4%D9%8A%D8%AE%D9%88%D9%81/p884176519">How to Write Like Chekhov - كيف تكتب على طريقة تشيخوف</a></li>
+  <li><a href="https://hayat-publishing.com/ar/%D9%83%D9%8A%D9%81-%D8%AA%D9%83%D8%AA%D8%A8-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%AA%D8%B4%D9%8A%D8%AE%D9%88%D9%81/p884176519">How to Write Like Chekhov - كيف تكتب على طريقة تشيخوف</a> | <a href="https://www.goodreads.com/book/show/223735238">Goodreads</a></li>
 </ul>
 
 <h4>✍️ Articles & Stories</h4>
@@ -133,6 +133,7 @@
   <a href="https://linkedin.com/in/habib-zreik"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://bsky.app/profile/your-handle"><img src="https://img.shields.io/badge/Bluesky-%231DA1F2.svg?logo=bluesky&logoColor=white&style=for-the-badge" alt="Bluesky"/></a>
   <a href="https://www.flickr.com/photos/your-handle"><img src="https://img.shields.io/badge/Flickr-%23FF0084.svg?logo=flickr&logoColor=white&style=for-the-badge" alt="Flickr"/></a>
+  <a href="https://www.goodreads.com/user/show/22422906"><img src="https://img.shields.io/badge/Goodreads-%23372213.svg?logo=goodreads&logoColor=white&style=for-the-badge" alt="Goodreads"/></a>
   <a href="https://linktr.ee/your-handle"><img src="https://img.shields.io/badge/Linktree-%2339E09B.svg?logo=linktree&logoColor=white&style=for-the-badge" alt="Linktree"/></a>
 </div>
 

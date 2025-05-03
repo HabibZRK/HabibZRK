@@ -105,8 +105,8 @@
 <h5>As part of a team</h5>
 <ul>
   <li><a href="https://baytalhikma2.org/books/14">Palestine 1936: The Great Revolt and the Roots of the Middle East Conflict</a></li>
-  <li><a href="https://baytalhikma2.org/books/8">Classical Liberalism: A Primer</a></li>
-  <li><a href="https://baytalhikma2.org/books/9">Ludwig Von Mises: A Primer</a></li>
+  <li><a href="https://baytalhikma2.org/books/8">Classical Liberalism: A Primer</a> | <a href="https://www.goodreads.com/book/show/210966053">Goodreads</a></li>
+  <li><a href="https://baytalhikma2.org/books/9">Ludwig Von Mises: A Primer</a> | <a href="https://www.goodreads.com/book/show/210966309">Goodreads</a></li>
   <li>Plus many others, explore <a href="https://baytalhikma2.org/books">Bayt Al-Hikma 2.0</a> for more!</li>
 </ul>
 

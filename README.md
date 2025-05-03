@@ -1,7 +1,7 @@
 <!-- GitHub Profile Header with Animation -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there,+I'm+Habib;Welcome+to+my+GitHub!&center=true&size=30&color=fe428e&duration=3000&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there,+I'm+Habib.;Welcome+to+my+GitHub!&center=true&size=25&color=FF9900&duration=3000&pause=1000">
   </h1>
 </div>
 

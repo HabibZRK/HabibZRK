@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Habib Zreik</h1>
-  <p><em>Mechatronics Engineer | Builder</em></p>
+  <p><em>Mechatronics Engineer | Robotics and ML/em></p>
   <p>
     <a href="https://zreik.me">zreik.me</a> • 
     <a href="https://linkedin.com/in/habib-zreik">LinkedIn</a> • 

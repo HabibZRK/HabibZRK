@@ -12,23 +12,24 @@
 
 <div align="center">
   <table>
-    <tr>
-      <td align="center" width="25%">
-        <h3>House</h3>
-        <p><b>Gryffindor</b><br>🔴🟡</p>
-      </td>
-      <td align="center" width="25%">
-        <h3>Patronus</h3>
-        <p><b>Robin</b><br>🐦</p>
-      </td>
-      <td align="center" width="25%">
-        <h3>Wand</h3>
-        <p><b>Acacia</b><br>🪄</p>
-      </td>
-      <td align="center" width="25%">
-        <h3>Origin</h3>
-        <p><b>Synnax</b><br>🌌</p>
-      </td>
+    <tr align="center">
+      <th rowspan="4"><img src="assets/wizarding-world-portrait.png" height="180" alt="Wizarding World Portrait" /></th>
+      <th>House</th>
+      <th>Patronus</th>
+      <th>Wand</th>
+      <th>Origin</th>
+    </tr>
+    <tr align="center">
+      <td><img src="assets/house_crest-gryffindor.svg" height="60" alt="Gryffindor Crest" /></td>
+      <td><img src="assets/patronus-robin.webp" height="60" alt="Robin Patronus" /></td>
+      <td><img src="assets/wand-accacia.webp" height="60" alt="Acacia Wand" /></td>
+      <td>🌌</td>
+    </tr>
+    <tr align="center">
+      <td><b>Gryffindor</b></td>
+      <td><b>Robin</b></td>
+      <td><b>Acacia</b></td>
+      <td><b>Synnax</b></td>
     </tr>
   </table>
 </div>

@@ -1,11 +1,36 @@
 <div align="center">
   <h1>Habib Zreik</h1>
-  <p><em>Mechatronics Engineer | Robotics and ML</em></p>
+  <p><em>Mechatronics Engineer | Gryffindor 🦁</em></p>
   <p>
     <a href="https://zreik.me">zreik.me</a> • 
     <a href="https://linkedin.com/in/habib-zreik">LinkedIn</a> • 
     <a href="https://bsky.app/profile/hzreik.bsky.social">Bluesky</a>
   </p>
+</div>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>House</h3>
+        <p><b>Gryffindor</b><br>🔴🟡</p>
+      </td>
+      <td align="center" width="25%">
+        <h3>Patronus</h3>
+        <p><b>Robin</b><br>🐦</p>
+      </td>
+      <td align="center" width="25%">
+        <h3>Wand</h3>
+        <p><b>Acacia</b><br>🪄</p>
+      </td>
+      <td align="center" width="25%">
+        <h3>Origin</h3>
+        <p><b>Synnax</b><br>🌌</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -23,7 +48,7 @@
       </td>
       <td align="center" width="33%">
         <h3>Focus</h3>
-        <p>Robotics • Autonomous Systems • Systems Architecture</p>
+        <p>Robotics • Autonomous Systems • Astronomy</p>
       </td>
     </tr>
   </table>
